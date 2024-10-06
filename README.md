@@ -16,12 +16,16 @@
     - Manage recipe data (optional for future versions).
 
 **Installation**
-- Clone the repository by running the following command in your terminal:
-    - git clone https://github.com/your-username/recipe-website.git
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/your-username/recipe-website.git
+    ```
 
 **Navigate to the project directory:**
-- You can navigate to the project directory by running the following code in your terminal:
-  - cd recipe-website
+- Navigate to the project folder:
+    ```bash
+    cd recipe-website
+    ```
 - Install dependencies (if any). You may need a local server setup like XAMPP for PHP or set up a database if included.
 - Set up your database and update the necessary credentials in the config.php file (if applicable).
 - Run the application on a local server.
