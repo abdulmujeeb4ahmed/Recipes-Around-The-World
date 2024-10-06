@@ -18,7 +18,7 @@
 **Installation**
 - Clone this repository:
     ```bash
-    git clone https://github.com/your-username/recipe-website.git
+    git clone https://github.com/your-username/Recipes-Around-The-World.git
     ```
 
 **Navigate to the project directory:**
