@@ -1,4 +1,4 @@
-**Recipe Website Project:**
+# **Recipe Website Project:**
 - The Recipe Website is designed to help users explore a variety of recipes from multiple cuisines including Mexican, Chinese, Italian, Indian, and more. Users can browse recipes, view detailed instructions, and save their favorite recipes for later. The project includes a modern, responsive design with intuitive navigation.
   
 **Features**
